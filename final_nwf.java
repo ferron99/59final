@@ -586,7 +586,7 @@ class Lobster {
     x= 75;
     y= yin;
     dx= random(1,3);
-    dy= random(1,3);
+    dy= .5;
   }
   
   void move(){
